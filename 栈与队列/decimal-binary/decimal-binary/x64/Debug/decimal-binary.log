@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\数据结构实验代码\栈与队列\decimal-binary\decimal-binary\源.cpp(54,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  decimal-binary.vcxproj -> F:\数据结构实验代码\栈与队列\decimal-binary\x64\Debug\decimal-binary.exe
