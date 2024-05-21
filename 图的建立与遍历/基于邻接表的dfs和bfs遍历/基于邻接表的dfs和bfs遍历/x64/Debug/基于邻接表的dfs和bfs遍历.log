@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\数据结构实验代码\图的建立与遍历\基于邻接表的dfs和bfs遍历\基于邻接表的dfs和bfs遍历\源.cpp(180,15): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  基于邻接表的dfs和bfs遍历.vcxproj -> F:\数据结构实验代码\图的建立与遍历\基于邻接表的dfs和bfs遍历\x64\Debug\基于邻接表的dfs和bfs遍历.exe
