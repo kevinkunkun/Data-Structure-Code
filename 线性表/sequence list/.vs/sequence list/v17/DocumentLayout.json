@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u7EBF\u6027\u8868\\sequence list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC26354-FB6E-4230-95B3-8CAFC396201D}|sequence list\\sequence list.vcxproj|F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u7EBF\u6027\u8868\\sequence list\\sequence list\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EC26354-FB6E-4230-95B3-8CAFC396201D}|sequence list\\sequence list.vcxproj|solutionrelative:sequence list\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u7EBF\u6027\u8868\\sequence list\\sequence list\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "sequence list\\\u6E90.cpp",
+              "ToolTip": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u7EBF\u6027\u8868\\sequence list\\sequence list\\\u6E90.cpp",
+              "RelativeToolTip": "sequence list\\\u6E90.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T14:17:26.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

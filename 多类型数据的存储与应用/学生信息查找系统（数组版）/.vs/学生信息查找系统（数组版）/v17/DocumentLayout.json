@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u591A\u7C7B\u578B\u6570\u636E\u7684\u5B58\u50A8\u4E0E\u5E94\u7528\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC3A6DE-6906-41CE-9FB0-D85905D31D88}|\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09.vcxproj|F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u591A\u7C7B\u578B\u6570\u636E\u7684\u5B58\u50A8\u4E0E\u5E94\u7528\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCC3A6DE-6906-41CE-9FB0-D85905D31D88}|\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09.vcxproj|solutionrelative:\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u591A\u7C7B\u578B\u6570\u636E\u7684\u5B58\u50A8\u4E0E\u5E94\u7528\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u6E90.cpp",
+              "ToolTip": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u591A\u7C7B\u578B\u6570\u636E\u7684\u5B58\u50A8\u4E0E\u5E94\u7528\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u6E90.cpp",
+              "RelativeToolTip": "\u5B66\u751F\u4FE1\u606F\u67E5\u627E\u7CFB\u7EDF\uFF08\u6570\u7EC4\u7248\uFF09\\\u6E90.cpp",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T13:33:41.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

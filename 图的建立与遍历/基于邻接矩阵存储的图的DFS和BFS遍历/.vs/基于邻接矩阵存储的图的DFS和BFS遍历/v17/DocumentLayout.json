@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u56FE\u7684\u5EFA\u7ACB\u4E0E\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109D6FB3-56DF-4B7B-B7E7-9D9A96988DC0}|\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386.vcxproj|F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u56FE\u7684\u5EFA\u7ACB\u4E0E\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{109D6FB3-56DF-4B7B-B7E7-9D9A96988DC0}|\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386.vcxproj|solutionrelative:\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u5218\u601D\u884C\\Desktop\\\u300A\u6570\u636E\u7ED3\u6784\u5B9E\u8DF5\u6559\u7A0B\u300B\u6848\u4F8B\u6E90\u4EE3\u7801zip_1\\\u300A\u6570\u636E\u7ED3\u6784\u5B9E\u8DF5\u6559\u7A0B\u300B\u6E90\u4EE3\u7801\\ch5 \u56FE\\5-1\u56FE\u7684\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u53CA\u904D\u5386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-1\u56FE\u7684\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u53CA\u904D\u5386.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5218\u601D\u884C\\Desktop\\\u300A\u6570\u636E\u7ED3\u6784\u5B9E\u8DF5\u6559\u7A0B\u300B\u6848\u4F8B\u6E90\u4EE3\u7801zip_1\\\u300A\u6570\u636E\u7ED3\u6784\u5B9E\u8DF5\u6559\u7A0B\u300B\u6E90\u4EE3\u7801\\ch5 \u56FE\\5-1\u56FE\u7684\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u53CA\u904D\u5386.cpp",
+              "ToolTip": "C:\\Users\\\u5218\u601D\u884C\\Desktop\\\u300A\u6570\u636E\u7ED3\u6784\u5B9E\u8DF5\u6559\u7A0B\u300B\u6848\u4F8B\u6E90\u4EE3\u7801zip_1\\\u300A\u6570\u636E\u7ED3\u6784\u5B9E\u8DF5\u6559\u7A0B\u300B\u6E90\u4EE3\u7801\\ch5 \u56FE\\5-1\u56FE\u7684\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u53CA\u904D\u5386.cpp",
+              "ViewState": "AQIAANUAAAAAAAAAAAAYwN0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T11:58:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u56FE\u7684\u5EFA\u7ACB\u4E0E\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u6E90.cpp",
+              "ToolTip": "F:\\\u6570\u636E\u7ED3\u6784\u5B9E\u9A8C\u4EE3\u7801\\\u56FE\u7684\u5EFA\u7ACB\u4E0E\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u6E90.cpp",
+              "RelativeToolTip": "\u57FA\u4E8E\u90BB\u63A5\u77E9\u9635\u5B58\u50A8\u7684\u56FE\u7684DFS\u548CBFS\u904D\u5386\\\u6E90.cpp",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAYwP8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T11:08:43.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
